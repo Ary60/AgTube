@@ -1,0 +1,63 @@
+body{
+  
+  margin: 0px;
+}
+.sticky {
+  position: sticky;
+  top: 0;
+  
+  background: white;
+  height: 50px;
+}
+.l{
+  
+  margin-top: 60px;
+  padding-left: 10px;
+  font-size: 21px;
+  font-weight: normal;
+  
+}
+
+.a{
+  
+  height: 90px;
+  background: white;
+  margin-top: 10px;
+  font-size: 10px;
+  
+}
+.a  p{
+  font-size: 14.3px;
+  font-weight:  normal;
+  text-align: justify-all;
+  font-family: sans-serif;
+  margin-left: 1px;
+  
+}
+.f{
+  margin-right: 13px;
+  float: left;
+}
+.a img{
+  margin-left: 18px;
+  margin-left: px;
+  margin-top: 0px;
+}
+.b{
+  background: white;
+  height: 52px;
+  bottom: 0px;
+  box-shadow: 0px 0px 0px 0.000px gray;
+  position: sticky;
+}
+.b img{
+  margin-top: ppx;
+  width: 35px;
+  margin-left: 28px;
+  height: 30px;
+}
+.aa{
+  margin-top: 10px;
+  align-items: center;
+  font-size: 10px;
+}

@@ -1,0 +1,36 @@
+body{
+  margin: 0px;
+}
+.sticky{
+  height: 150px;
+  background: white;
+  font-family: sans;
+}
+
+.sticky img {
+  float: left;
+  color: red;
+  margin-top: 38px;
+  margin-left: 35px;
+  width: 96px;
+  height: 70px;
+}
+.a{
+  background: white;
+  margin-top: 70px;
+  height: 800px;
+  
+}
+.a f{
+  height: 200px;
+}
+.b{
+  
+  background: white;
+  height: 140px;
+  bottom: 0px;
+  position: sticky;
+}
+.b img{
+  margin-top: 28px;
+}
